@@ -1,7 +1,7 @@
 # Air time Service.
 
 from AfricasTalkingGateway import AfricasTalkingGateway, AfricasTalkingGatewayException
-from get_airtime_recipients import recipients
+from airtime_recipients import recipients
 
 # login credentials
 username = "username"
