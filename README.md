@@ -1,5 +1,11 @@
 ## africasTalking_sendAirtime API
 
+clone the directory and run
+
+```
+$ python send_airtime.py
+```
+
 ### `AirtimeService`
 
 - `send(phone_number: str, amount: str)`: Send airtime to a phone number. An example amount would be `KES 150`.
